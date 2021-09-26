@@ -1,0 +1,52 @@
+{
+  "studentsAverage": [
+    {
+      "id": "ku0opzxrtngxuvmmwpf",
+      "key": "ku1jwqxqcnvsxuu8zot",
+      "name": "aluno Exemplo 1",
+      "grade1": 8,
+      "grade2": 8,
+      "grade3": 9,
+      "absences": 10,
+      "average": 9,
+      "requiredGrade": 0,
+      "status": "Aprovado"
+    },
+    {
+      "id": "ku0oql7wo49s8sggqm",
+      "key": "ku1jwqxq7huz1akp889",
+      "name": "aluno Exemplo 2",
+      "grade1": 6,
+      "grade2": 6,
+      "grade3": 5,
+      "absences": 8,
+      "average": 6,
+      "requiredGrade": 4,
+      "status": "Exame final"
+    },
+    {
+      "id": "ku0or4o8yc0btixz9xb",
+      "key": "ku1jwwmcrzvuduxysll",
+      "name": "aluno Exemplo 3",
+      "grade1": 3,
+      "grade2": 2,
+      "grade3": 4,
+      "absences": 12,
+      "average": 3,
+      "requiredGrade": 0,
+      "status": "Reprovado por Média"
+    },
+    {
+      "id": "ku0orhgpg2pf5al6zki",
+      "key": "ku1jx595afowd2on1j5",
+      "name": "aluno Exemplo 4",
+      "grade1": 7,
+      "grade2": 9,
+      "grade3": 10,
+      "absences": 42,
+      "average": 9,
+      "requiredGrade": 0,
+      "status": "Reprovado por falta"
+    }
+  ]
+}

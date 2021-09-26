@@ -4,7 +4,7 @@
 ## Um pouco sobre o que foi usado:
 
 1. React JS
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" />
 Para desenvolvimento da aplicação foi utilizado o React JS, biblioteca em código aberto mantida pelo facebook.
 Obtei por utilizar o React JS por maior facilidade e ser algo muito presente no mercado de software
 

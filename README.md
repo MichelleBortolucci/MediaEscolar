@@ -21,11 +21,11 @@ Como escolha do layout foi utilizado o ANTD, ferramenta que permite utilizarmos 
 <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" />
 Como escolha para chamadas HTTP, utilizei o Axios, por maior facilidade e ser uma ferramenta amplamente usada no mercado.
 
-## Depedencias :
+## Dependências :
   Gerenciador de pacotes - utilizar NPM ou Yarn.
     
-## Instalar Depencias:
-  Primeiramente é necessário realizar a instalação das dependencias do projeto.
+## Instalar Dependências:
+  Primeiramente é necessário realizar a instalação das dependências do projeto.
   Com um dos seguintes comandos:
   NPM:
   ```
